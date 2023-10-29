@@ -1,7 +1,7 @@
 ## Olá, Seja muito bem vindo(a)!
 
 ## Um pouco sobre mim
-Sou professor de inglês com formação em pedagogia e uma profunda paixão pela área da tecnologia. Estou atualmente embarcando em uma jornada de transição de carreira, determinado a me tornar um profissional dedicado no campo do desenvolvimento web e a explorar todo o emocionante universo da tecnologia. No momento, estou imerso em um curso de desenvolvimento web Python e simultaneamente aprimorando minhas habilidades com diversos cursos na área tecnológica.
+Com uma paixão pela educação e tecnologia, minha jornada profissional começou no Canadá, onde morei por 4 anos e obtive certificações em TESOL e CELTA. Minha formação em Pedagogia e 6 anos de experiência como professor de inglês me proporcionaram habilidades excepcionais em comunicação e gestão de sala de aula. Minha busca por conhecimento não parou por aí. Mergulhei na linguagem da tecnologia, dominando HTML, CSS e JavaScript, e atualmente estou aprimorando minhas habilidades em Python, sempre optando por estudar em inglês para alcançar um entendimento mais profundo. Estou em uma empolgante transição para a área de tecnologia, onde planejo combinar minha expertise em educação com meu conhecimento técnico. Estou animado para explorar novas oportunidades e contribuir para projetos inovadores.
 
 ## GitHub Stats
 <div>
