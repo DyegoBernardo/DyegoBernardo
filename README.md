@@ -17,6 +17,8 @@ Com uma paixão pela educação e tecnologia, minha jornada profissional começo
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Contato
 
