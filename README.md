@@ -1,7 +1,7 @@
 ## Olá, Seja muito bem vindo(a)!
 
 ## Um pouco sobre mim
-Graduando em Tecnologia de Segurança Cibernética, com vivência internacional e domínio do idioma inglês. Experiência em testes manuais, teste de integração, teste exploratório, testes mobile, testes funcionais, SQL, BDD. Profissional altamente capacitado para trabalhar em equipe, dinâmico, com iniciativa, facilidade de aprendizado e de bom relacionamento interpessoal, dedicado as funções e focado em resultados. Organizado, responsável e com facilidade em adaptar-se a mudanças.
+Graduando em Tecnologia de Segurança Cibernética, com vivência internacional e fluência em inglês. Possuo expertise em diversos tipos de testes, tais como manuais, integração, exploratórios, mobile e funcionais, além de conhecimentos em SQL e BDD. Comprometido com minhas responsabilidades e focado em resultados, mantenho-me organizado, responsável e preparado para adaptar-me com facilidade a mudanças.
 
 ## GitHub Stats
 <div>
