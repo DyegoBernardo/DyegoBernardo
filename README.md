@@ -1,7 +1,7 @@
 ## Olá, Seja muito bem vindo(a)!
 
 ## Um pouco sobre mim
-Com uma paixão pela educação e tecnologia, minha jornada profissional começou no Canadá, onde morei por 4 anos e obtive certificações em TESOL e CELTA. Minha formação em Pedagogia e 6 anos de experiência como professor de inglês me proporcionaram habilidades excepcionais em comunicação e gestão de sala de aula. Minha busca por conhecimento não parou por aí. Mergulhei na linguagem da tecnologia, dominando HTML, CSS e JavaScript, e atualmente estou aprimorando minhas habilidades em Python, sempre optando por estudar em inglês para alcançar um entendimento mais profundo. Estou em uma empolgante transição para a área de tecnologia, onde planejo combinar minha expertise em educação com meu conhecimento técnico. Estou animado para explorar novas oportunidades e contribuir para projetos inovadores.
+Graduando em Tecnologia de Segurança Cibernética, com vivência internacional e domínio do idioma inglês. Experiência em testes manuais, teste de integração, teste exploratório, testes mobile, testes funcionais, SQL, BDD. 
 
 ## GitHub Stats
 <div>
